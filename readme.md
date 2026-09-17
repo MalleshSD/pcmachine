@@ -405,9 +405,18 @@ Electronics & IoT
 ⭐ Repository
 
 This repository contains the source code and project files for the STM32 Touchscreen Billing Machine.
-
 GitHub:
 https://github.com/MalleshSD/pcmachine
-```markdown
+## 📸 Project Output
+
+### 🖥️ TFT Touchscreen Display
+
+The ILI9488 TFT touchscreen provides the user interface for product selection, quantity entry and billing operations.
+
 ![TFT Display](display-working.jpg)
+
+### 🧾 Printed Bill
+
+The Python-based printing application formats the billing information and generates the final physical bill.
+
 ![Printed Bill](printed-bill.jpg)
