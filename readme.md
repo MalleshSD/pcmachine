@@ -7,12 +7,11 @@ A real-time embedded billing machine developed using the STM32F103C8T6 microcont
 The system allows users to select products, enter quantities, calculate the total amount and display billing information through a TFT display.
 ## 📸 Project Output
 
-### TFT Display
+### 📺 TFT Display
 ![TFT Display](display-working.jpg)
 
-### Printed Bill
+### 🧾 Printed Bill
 ![Printed Bill](printed-bill.jpg)
-## 🔧 Hardware Used
 
 - STM32F103C8T6
 - ILI9488 TFT Display
